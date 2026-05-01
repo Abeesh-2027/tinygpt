@@ -75,9 +75,3 @@ Output
 🤝 Contributing
 
 
-
-MIT License
-
-👨‍💻 Author
-
-Abeesh
