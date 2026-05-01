@@ -4,7 +4,6 @@ A lightweight GPT-style language model built from scratch using PyTorch.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -75,9 +74,7 @@ Output
 📊 Add attention visualization
 🤝 Contributing
 
-Feel free to fork this repo and improve it!
 
-📜 License
 
 MIT License
 
