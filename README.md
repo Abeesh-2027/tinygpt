@@ -6,7 +6,8 @@ A lightweight GPT-style language model built from scratch using PyTorch.
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
 
 ---
-
+## working of tinygpt 
+![img alt](https://github.com/Abeesh-2027/tinygpt/blob/f72653c3398e6612afc05e79ac3c98bbc045a608/Screenshot%20(92).png)
 ## 🧠 About
 
 TinyGPT is a minimal implementation of a **Transformer-based language model** inspired by GPT architecture.
